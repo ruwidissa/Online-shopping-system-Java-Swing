@@ -1,1 +1,1 @@
-# Online-shopping-system-Java-Swing
+# Online-shopping-manager-system-Java-Swing
